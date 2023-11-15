@@ -1,11 +1,6 @@
 ## NON-TECHNICAL PRESENTATION
 ## KING COUNTY HOUSE SALES PROJECT
-## GROUP MEMBERS
-1.ALLEN MAINA
-2.CYNTHIA KAREKO
-3.CELIAJOY OMIAH
-4.MARION JELIMO
-5.WILLIAM OMBALLA
+
 
  ![King County USA](https://github.com/celiajoyomiah/dsc-phase-2-project-v2-3/blob/main/Image.jpeg%60)
 
